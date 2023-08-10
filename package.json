@@ -1,0 +1,31 @@
+{
+  "name": "nr1_inception",
+  "version": "1.0.0",
+  "description": "Namste react tutorial - Ep 2",
+  
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Nightcoder001/Namaste_React.git"
+  },
+  "keywords": [
+    "react",
+    "nightcoder001"
+  ],
+  "author": "nightcoder001",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nightcoder001/Namaste_React.git/issues"
+  },
+  "homepage": "https://github.com/Nightcoder001/Namaste_React.git#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

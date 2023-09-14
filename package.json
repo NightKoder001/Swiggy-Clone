@@ -1,0 +1,25 @@
+{
+  "name": "swiggy-clone",
+  "version": "1.0.0",
+  "description": "Creating Swiggy clone using React JS",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Nightcoder001/Swiggy-Clone.git"
+  },
+  "keywords": [
+    "git",
+    "React",
+    "Swiggy",
+    "Nightkoder"
+  ],
+  "author": "Nightkoder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nightcoder001/Swiggy-Clone/issues"
+  },
+  "homepage": "https://github.com/Nightcoder001/Swiggy-Clone#readme"
+}
